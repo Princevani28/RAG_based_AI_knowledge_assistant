@@ -1,0 +1,12 @@
+[
+  {"question": "How many days of annual leave do employees get?", "expected_source": "hr_policy.md", "expected_keywords": ["24"]},
+  {"question": "How many unused annual leave days can be carried over?", "expected_source": "hr_policy.md", "expected_keywords": ["5"]},
+  {"question": "How long is parental leave for the primary caregiver?", "expected_source": "hr_policy.md", "expected_keywords": ["16 weeks"]},
+  {"question": "What is the minimum password length?", "expected_source": "it_security.md", "expected_keywords": ["14"]},
+  {"question": "How quickly must phishing emails be reported?", "expected_source": "it_security.md", "expected_keywords": ["1 hour"]},
+  {"question": "How much does the Pro plan cost per month?", "expected_source": "product_faq.md", "expected_keywords": ["$99"]},
+  {"question": "What is the API rate limit on the Pro plan?", "expected_source": "product_faq.md", "expected_keywords": ["100"]},
+  {"question": "How long is customer analytics data retained?", "expected_source": "product_faq.md", "expected_keywords": ["13 months"]},
+  {"question": "Who won the football world cup in 1998?", "expected_source": null, "expected_keywords": []},
+  {"question": "Explain quantum chromodynamics gluon confinement", "expected_source": null, "expected_keywords": []}
+]

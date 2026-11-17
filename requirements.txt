@@ -1,0 +1,22 @@
+# Core LLM / RAG stack
+langchain-core>=0.3
+langchain-openai>=0.2
+langchain-text-splitters>=0.3
+langchain-pinecone>=0.2
+langgraph>=0.2
+pinecone>=5.0
+openai>=1.40
+# Document processing
+pypdf>=4.0
+# API / UI / MCP
+fastapi>=0.110
+uvicorn>=0.29
+python-multipart>=0.0.9
+streamlit>=1.35
+mcp>=1.2,<2
+# Utilities
+python-dotenv>=1.0
+numpy>=1.26
+httpx>=0.27
+# Testing / AI assurance
+pytest>=8.0
