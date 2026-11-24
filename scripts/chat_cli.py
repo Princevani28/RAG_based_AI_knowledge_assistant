@@ -19,3 +19,8 @@ if __name__ == "__main__":
         print(f"\nAssistant: {r['answer']}")
         for s in r["sources"]:
             print(f"  [{s['id']}] {s['source']} (p.{s['page']}, score {s['score']})")
+
+
+
+
+            
